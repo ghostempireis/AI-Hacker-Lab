@@ -27,5 +27,5 @@ This GitHub repo contains all my hands-on work, tools, and notes as I explore et
 ---
 
 ## 📬 Contact
-- LinkedIn: [Ranjan Kumar](https://linkedin.com/in/ranjan-kumar)
-- Email: your.email@example.com
+- LinkedIn: [Ranjan Kumar](https://www.linkedin.com/in/ranjanchauhan-cybersec/)
+- Email: ranjan.osint@gmail.com
