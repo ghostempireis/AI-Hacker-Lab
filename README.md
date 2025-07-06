@@ -1,24 +1,33 @@
 # 🧠 AI-Hacker-Lab
 
-This is my personal cybersecurity + AI portfolio.  
-Built to document my 28-day journey into ethical hacking using AI, automation tools, and hands-on labs.
+Welcome to my personal AI + Cybersecurity Lab!  
+This repository documents my 28-day journey into **ethical hacking** using **AI tools**, automation scripts, and hands-on web security labs.
 
 ---
 
-## 📁 Key Sections
+## 📁 Repository Structure
 
-| Folder | Description |
-|--------|-------------|
-| `scripts/` | Python + GPT scripts for automation |
-| `reports/` | Bug reports (XSS, SQLi, Auth Bypass, etc.) |
-| `notes/` | Study notes (HTTP, JWT, Pandas, etc.) |
-| `daily-logs/` | My daily log of learning and practice |
-| `projects/` | Custom lab summaries (DVWA, THM, etc.) |
-| `assets/` | Screenshots or diagrams used in reports |
+| Folder         | Description                                  |
+|----------------|----------------------------------------------|
+| `scripts/`     | Python & GPT scripts for analysis/automation |
+| `reports/`     | Bug bounty markdown writeups (PoCs)          |
+| `notes/`       | Study notes (JWT, HTTP, Pandas, etc.)        |
+| `daily-logs/`  | Logs of my day-by-day learning progress      |
+| `projects/`    | Custom lab summaries (TryHackMe, DVWA, etc.) |
+| `assets/`      | Screenshots, diagrams                        |
 
 ---
 
-## 🔧 Tools & Skills
-- Burp Suite Pro, SQLmap, FFUF, DVWA, TryHackMe
-- Python, Prompt Engineering, GPT
-- OWASP Top 10 vulnerabilities
+## 🧠 Focus Areas
+
+- 🔐 Web Security: SQLi, XSS, CSRF, LFI, Auth Bypass  
+- 🤖 AI Use: Prompt engineering, GPT scripts for classification  
+- 🧰 Tools: Burp Suite, SQLmap, FFUF, TryHackMe, DVWA  
+- 🐍 Languages: Python, Bash, Markdown  
+
+---
+
+## 📬 Contact
+
+- LinkedIn: [Ranjan Kumar](https://www.linkedin.com/in/ranjanchauhan-cybersec/)
+- Gmail: ranjan.osint@gamil.com
