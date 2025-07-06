@@ -1,31 +1,24 @@
 # 🧠 AI-Hacker-Lab
 
-Welcome to my personal cybersecurity and AI lab.  
-This GitHub repo contains all my hands-on work, tools, and notes as I explore ethical hacking with the power of Artificial Intelligence.
+This is my personal cybersecurity + AI portfolio.  
+Built to document my 28-day journey into ethical hacking using AI, automation tools, and hands-on labs.
 
 ---
 
-## 🚀 What You'll Find
+## 📁 Key Sections
 
 | Folder | Description |
 |--------|-------------|
-| `scripts/` | Python + GPT scripts for automation and analysis |
-| `reports/` | Vulnerability reports with PoC and summaries |
-| `notes/` | Study notes on web security and AI techniques |
-| `daily-logs/` | My 28-day journey log |
-| `projects/` | Mini-projects, labs, and experiments |
-| `assets/` | Screenshots and visuals used in reports |
+| `scripts/` | Python + GPT scripts for automation |
+| `reports/` | Bug reports (XSS, SQLi, Auth Bypass, etc.) |
+| `notes/` | Study notes (HTTP, JWT, Pandas, etc.) |
+| `daily-logs/` | My daily log of learning and practice |
+| `projects/` | Custom lab summaries (DVWA, THM, etc.) |
+| `assets/` | Screenshots or diagrams used in reports |
 
 ---
 
-## 🔧 Skills in Progress
-- Web Hacking: SQLi, XSS, CSRF, LFI, Auth Bypass
-- Tools: Burp Suite Pro, FFUF, SQLmap, TryHackMe, DVWA
-- AI: Prompt Engineering, NLP, Log Classification, GPT automation
-- Languages: Python, HTML/CSS, Bash
-
----
-
-## 📬 Contact
-- LinkedIn: [Ranjan Kumar](https://www.linkedin.com/in/ranjanchauhan-cybersec/)
-- Email: ranjan.osint@gmail.com
+## 🔧 Tools & Skills
+- Burp Suite Pro, SQLmap, FFUF, DVWA, TryHackMe
+- Python, Prompt Engineering, GPT
+- OWASP Top 10 vulnerabilities
